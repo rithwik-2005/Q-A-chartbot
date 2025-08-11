@@ -1,1 +1,1 @@
-# medi-bot_langchain
+# Q&A-chatbot
